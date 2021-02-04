@@ -1,0 +1,4 @@
+Console.Write("Enter name of dog : ");
+string dogName = Console.ReadLine();
+message = "Your dog's name is ";
+Console.WriteLine(message + dogName);
